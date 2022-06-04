@@ -1,0 +1,13 @@
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\bin\Debug\dfffff.exe.config
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\bin\Debug\dfffff.exe
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\bin\Debug\dfffff.pdb
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\obj\Debug\dfffff.csprojAssemblyReference.cache
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\obj\Debug\dfffff.Form1.resources
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\obj\Debug\dfffff.Form2.resources
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\obj\Debug\dfffff.Form3.resources
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\obj\Debug\dfffff.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\obj\Debug\dfffff.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\obj\Debug\dfffff.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\obj\Debug\dfffff.exe
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\obj\Debug\dfffff.pdb
+C:\Users\Дмитрий\source\repos\dfffff\dfffff\obj\Debug\dfffff.Form4.resources
